@@ -1,0 +1,178 @@
+[
+  {
+    "symbol": "EQNR.OL",
+    "price": 415.4,
+    "changePercent": 4.240902,
+    "change": 16.899994,
+    "pe": 12.093159,
+    "pb": 2.5077128,
+    "yield": 3.66,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "DNB.OL",
+    "price": 318.9,
+    "changePercent": -0.5302596,
+    "change": -1.7000122,
+    "pe": 11.56692,
+    "pb": 1.8095772,
+    "yield": 5.61,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "AKSO.OL",
+    "price": 42,
+    "changePercent": 0.3824088,
+    "change": 0.15999985,
+    "pe": 6.2874255,
+    "pb": 2.3280306,
+    "yield": 8.6,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "MOWI.OL",
+    "price": 209,
+    "changePercent": 1.5549061,
+    "change": 3.199997,
+    "pe": 15.845338,
+    "pb": 2.419578,
+    "yield": 3.69,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "SCATC.OL",
+    "price": 103.9,
+    "changePercent": -0.6692132,
+    "change": -0.69999695,
+    "pe": 0,
+    "pb": 1.7102599,
+    "yield": 0,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "NHY.OL",
+    "price": 92.8,
+    "changePercent": -1.2765925,
+    "change": -1.199997,
+    "pe": 18.672033,
+    "pb": 1.7585417,
+    "yield": 3.19,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "AKER.OL",
+    "price": 1614,
+    "changePercent": -0.61576355,
+    "change": -10,
+    "pe": 4.236332,
+    "pb": 1.7721639,
+    "yield": 3.57,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "AUSS.OL",
+    "price": 86,
+    "changePercent": 1.1764706,
+    "change": 1,
+    "pe": 23.118279,
+    "pb": 1.1598268,
+    "yield": 7.65,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "OTEC.OL",
+    "price": 18.18,
+    "changePercent": -1.5167865,
+    "change": -0.27999878,
+    "pe": 15.024794,
+    "pb": 1.0187056,
+    "yield": 0,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "SALM.OL",
+    "price": 573.5,
+    "changePercent": 2.0462635,
+    "change": 11.5,
+    "pe": 35.07645,
+    "pb": 4.4395075,
+    "yield": 1.78,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "symbol": "AKRBP.OL",
+    "price": 364.2,
+    "changePercent": 1.0263556,
+    "change": 3.7000122,
+    "pe": 17.476007,
+    "pb": 2.1265275,
+    "yield": 7.13,
+    "rsi": 50,
+    "news": [
+      {
+        "headline": "Market data from Yahoo Finance",
+        "sentiment": "neutral"
+      }
+    ]
+  }
+]
