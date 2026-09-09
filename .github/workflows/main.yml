@@ -1,0 +1,32 @@
+name: Rocket Detector Daily Scan
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Rocket Detector Scan
+        run: node rocket-scraper.js
+
+      - name: Commit and push rockets.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add rockets.json
+          git commit -m "Auto-scan: $(date)" || echo "No changes"
+          git push
